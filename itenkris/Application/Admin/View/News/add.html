@@ -1,0 +1,46 @@
+<layout name="layout" />
+<style>
+#news_content{
+   width:90%;
+   height:auto;
+   max-height:400px;
+   overflow:auto;
+}
+</style>
+<div class="main-div">
+    <form name="main_form" method="POST" action="__SELF__" enctype="multipart/form-data">
+        <table cellspacing="1" cellpadding="3" width="100%">	
+			<tr>
+                <td class="label">新闻标题：</td>
+                <td>
+                    <input  size="110" type="text" name="news_title" value="" />
+                </td>
+            </tr>   
+			<tr>
+                <td class="label">新闻内容：</td>
+                <!--新闻描述-->
+			    <td>
+                    <textarea id="news_content" name="news_content"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="99" align="center">
+                    <input type="submit" class="button" value=" 确定 " />
+                    <input type="reset" class="button" value=" 重置 " />
+                </td>
+            </tr>		  
+        </table>
+    </form>
+</div>
+<!--导入在线编辑器-->
+<link href="__PUBLIC__/umeditor/themes/default/css/umeditor.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="__PUBLIC__/umeditor/third-party/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/umeditor/umeditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/umeditor/umeditor.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/umeditor/lang/zh-cn/zh-cn.js"></script>
+<script>
+UM.getEditor('news_content', {
+	initialFrameWidth : "90%",
+	autoHeightEnabled: false
+});
+</script>

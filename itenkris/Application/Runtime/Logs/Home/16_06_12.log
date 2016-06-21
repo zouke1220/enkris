@@ -1,0 +1,2577 @@
+[ 2016-06-12T22:04:37+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001508s ]
+
+[ 2016-06-12T22:05:15+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-06-12T22:09:07+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2016-06-12T22:14:06+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2016-06-12T22:14:08+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2016-06-12T22:14:09+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000467s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-06-12T22:14:11+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000966s ]
+
+[ 2016-06-12T22:14:11+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2016-06-12T22:14:11+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000479s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001940s ]
+
+[ 2016-06-12T22:14:12+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-06-12T22:14:13+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+
+[ 2016-06-12T22:14:14+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011944s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2016-06-12T22:14:15+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2016-06-12T22:14:16+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2016-06-12T22:14:20+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001369s ]
+
+[ 2016-06-12T22:15:18+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002084s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2016-06-12T22:15:19+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001060s ]
+
+[ 2016-06-12T22:15:20+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002315s ]
+
+[ 2016-06-12T22:15:22+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000740s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001372s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003063s ]
+
+[ 2016-06-12T22:15:23+08:00 ] 127.0.0.1 /index.php/Home/Careers/careers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2016-06-12T22:15:25+08:00 ] 127.0.0.1 /index.php/Home/Contact/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2016-06-12T22:15:32+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2016-06-12T22:15:33+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002288s ]
+
+[ 2016-06-12T22:15:35+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002309s ]
+
+[ 2016-06-12T22:15:48+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000558s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002635s ]
+
+[ 2016-06-12T22:15:50+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000921s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002979s ]
+
+[ 2016-06-12T22:15:52+08:00 ] 127.0.0.1 /index.php/Home/Careers/careers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2016-06-12T22:16:25+08:00 ] 127.0.0.1 /index.php/Home/Careers/careers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001186s ]
+
+[ 2016-06-12T22:16:26+08:00 ] 127.0.0.1 /index.php/Home/Contact/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001033s ]
+
+[ 2016-06-12T22:21:53+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002940s ]
+
+[ 2016-06-12T22:22:00+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001935s ]
+
+[ 2016-06-12T22:23:21+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007879s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SELECT * FROM `index`  [ RunTime:0.000366s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000372s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+
+[ 2016-06-12T22:27:37+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007903s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.012361s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000377s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000303s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 117 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001453s ]
+
+[ 2016-06-12T22:28:35+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007313s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.010638s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000375s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 117 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\IndexController.class.php:10) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\IndexController.class.php:10) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\IndexController.class.php:10) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001023s ]
+
+[ 2016-06-12T22:34:07+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.010191s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008647s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000863s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001378s ]
+
+[ 2016-06-12T22:34:09+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.006807s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008378s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000385s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2016-06-12T22:34:11+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007498s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008770s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000366s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000287s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-06-12T22:34:18+08:00 ] 127.0.0.1 /index.php/Home/Index/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+ERR: 非法操作:product
+
+[ 2016-06-12T22:35:00+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.009409s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.010318s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000582s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000433s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000981s ]
+
+[ 2016-06-12T22:35:02+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000343s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001745s ]
+
+[ 2016-06-12T22:35:09+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000358s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000709s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003163s ]
+
+[ 2016-06-12T22:35:11+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001899s ]
+
+[ 2016-06-12T22:35:12+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001558s ]
+
+[ 2016-06-12T22:35:15+08:00 ] 127.0.0.1 /index.php/Home/News/newsview.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000494s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001515s ]
+
+[ 2016-06-12T22:35:45+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007565s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011416s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000451s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-06-12T22:36:36+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.008614s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.044964s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000372s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000315s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 100 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-06-12T22:36:49+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000654s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002465s ]
+
+[ 2016-06-12T22:36:51+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029983s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003389s ]
+
+[ 2016-06-12T22:36:53+08:00 ] 127.0.0.1 /index.php/Home/Careers/careers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2016-06-12T22:36:54+08:00 ] 127.0.0.1 /index.php/Home/Contact/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-06-12T22:37:48+08:00 ] 127.0.0.1 /index.php/Home/Contact/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011428s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001797s ]
+
+[ 2016-06-12T22:39:30+08:00 ] 127.0.0.1 /index.php/Home/Contact/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2016-06-12T22:39:40+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002058s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.010106s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011140s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000470s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001622s ]
+
+[ 2016-06-12T22:39:49+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004746s ]
+
+[ 2016-06-12T22:41:08+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007422s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.012138s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000528s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000987s ]
+
+[ 2016-06-12T22:41:11+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002481s ]
+
+[ 2016-06-12T22:41:12+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.008909s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011448s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000539s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000341s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001236s ]
+
+[ 2016-06-12T22:41:13+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000384s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000661s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043803s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002401s ]
+
+[ 2016-06-12T22:41:27+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.009221s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.013985s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000414s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-06-12T22:42:11+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007950s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008398s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000570s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000439s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000969s ]
+
+[ 2016-06-12T22:42:21+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007850s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008388s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000380s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000258s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000914s ]
+
+[ 2016-06-12T22:42:22+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000343s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002992s ]
+
+[ 2016-06-12T22:42:23+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002070s ]
+
+[ 2016-06-12T22:42:24+08:00 ] 127.0.0.1 /index.php/Home/Careers/careers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001729s ]
+
+[ 2016-06-12T22:42:25+08:00 ] 127.0.0.1 /index.php/Home/Contact/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000508s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2016-06-12T22:42:31+08:00 ] 127.0.0.1 /index.php/Home/Careers/careers.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001030s ]
+
+[ 2016-06-12T22:42:34+08:00 ] 127.0.0.1 /index.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002354s ]
+
+[ 2016-06-12T22:42:35+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002444s ]
+
+[ 2016-06-12T22:42:37+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.009127s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011314s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000596s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000497s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+NOTIC: [8] Undefined index: cintro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2016-06-12T22:44:28+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007245s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008084s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000484s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001457s ]
+
+[ 2016-06-12T22:44:56+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.007577s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011795s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000356s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined variable: v C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001172s ]
+
+[ 2016-06-12T22:45:09+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.008462s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.009854s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000377s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: intro C:\wamp\www\itenkris\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2016-06-12T22:45:18+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001511s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.008210s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011776s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000407s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-06-12T22:45:28+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000323s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030517s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002398s ]
+
+[ 2016-06-12T22:46:19+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.008111s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011223s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000383s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001422s ]
+
+[ 2016-06-12T22:46:50+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000329s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002528s ]
+
+[ 2016-06-12T22:47:54+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001757s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002197s ]
+
+[ 2016-06-12T22:47:55+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.008721s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.008037s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000359s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000466s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2016-06-12T22:47:57+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002039s ]
+
+[ 2016-06-12T23:12:19+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.009089s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a (LEFT JOIN goods_pic b ON (a.id=b.goods_id)) d LEFT JOIN goods_ms c ON(d.id=c.goods_id)   [ RunTime:0.000185s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(LEFT JOIN goods_pic b ON (a.id=b.goods_id)) d LEFT JOIN goods_ms c ON(d.id=c.go' at line 1
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a (LEFT JOIN goods_pic b ON (a.id=b.goods_id)) d LEFT JOIN goods_ms c ON(d.id=c.goods_id)  
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000424s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:11) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:11) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:11) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001876s ]
+
+[ 2016-06-12T23:24:16+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+
+[ 2016-06-12T23:24:40+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+
+[ 2016-06-12T23:24:41+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+
+[ 2016-06-12T23:29:03+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.007089s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(b.goods_id=c.goods_id)   [ RunTime:0.000506s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(b.goods_id=c.goods_id)  
+
+[ 2016-06-12T23:30:42+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.079517s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) d LEFT JOIN goods_ms c ON(d.id=c.goods_id)   [ RunTime:0.000232s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd LEFT JOIN goods_ms c ON(d.id=c.goods_id)' at line 1
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) d LEFT JOIN goods_ms c ON(d.id=c.goods_id)  
+
+[ 2016-06-12T23:31:00+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.022067s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(a.id=c.goods_id)   [ RunTime:0.000406s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(a.id=c.goods_id)  
+
+[ 2016-06-12T23:31:01+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.008427s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(a.id=c.goods_id)   [ RunTime:0.000525s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(a.id=c.goods_id)  
+
+[ 2016-06-12T23:31:01+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.005335s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(a.id=c.goods_id)   [ RunTime:0.000622s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(a.id=c.goods_id)  
+
+[ 2016-06-12T23:33:25+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.015237s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(id=c.goods_id   [ RunTime:0.000214s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(id=c.goods_id  
+
+[ 2016-06-12T23:33:26+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.039950s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(id=c.goods_id   [ RunTime:0.000204s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON(id=c.goods_id  
+
+[ 2016-06-12T23:37:31+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004310s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.021895s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)   [ RunTime:0.000440s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)  
+
+[ 2016-06-12T23:37:52+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.073614s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)   [ RunTime:0.000544s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)  
+
+[ 2016-06-12T23:37:53+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.031468s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)   [ RunTime:0.000662s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)  
+
+[ 2016-06-12T23:39:57+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.017420s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)   [ RunTime:0.000461s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)  
+
+[ 2016-06-12T23:39:57+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.029516s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)   [ RunTime:0.000467s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)  
+
+[ 2016-06-12T23:40:01+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.057971s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)   [ RunTime:0.000511s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM product a LEFT JOIN goods_pic b ON (a.id=b.goods_id)  
+
+[ 2016-06-12T23:40:31+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.014324s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM product a  [ RunTime:0.000413s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM product a 
+
+[ 2016-06-12T23:40:32+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.027865s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM product a  [ RunTime:0.000368s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM product a 
+
+[ 2016-06-12T23:40:49+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.022105s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM product a  [ RunTime:0.000385s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM product a 
+
+[ 2016-06-12T23:41:12+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.008883s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM `product`  [ RunTime:0.000446s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `product` 
+
+[ 2016-06-12T23:41:13+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.033242s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM `product`  [ RunTime:0.000375s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `product` 
+
+[ 2016-06-12T23:41:13+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.020239s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM `product`  [ RunTime:0.000623s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `product` 
+
+[ 2016-06-12T23:41:14+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.040176s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM `product`  [ RunTime:0.000446s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `product` 
+
+[ 2016-06-12T23:41:14+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004103s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.017317s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM `product`  [ RunTime:0.000870s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `product` 
+
+[ 2016-06-12T23:41:34+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.080793s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `product`
+SQL: SELECT * FROM `product`  [ RunTime:0.000663s ]
+ERR: 1146:Table 'itenkris.product' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `product` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001632s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:13) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:13) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:13) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001991s ]
+
+[ 2016-06-12T23:41:55+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.040203s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.011785s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000404s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001154s ]
+
+[ 2016-06-12T23:45:09+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001636s ]
+SQL: SHOW COLUMNS FROM `index` [ RunTime:0.009022s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `index`
+SQL: SHOW COLUMNS FROM `intro` [ RunTime:0.013729s ]
+SQL: SELECT * FROM `index`  [ RunTime:0.000665s ]
+ERR: 1146:Table 'itenkris.index' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `index` 
+SQL: SELECT * FROM `intro`  [ RunTime:0.000334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012434s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2016-06-12T23:45:11+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.016017s ]
+SQL: SELECT * FROM `goods`  [ RunTime:0.000450s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000347s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092156s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001364s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:13) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:13) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:13) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002560s ]
+
+[ 2016-06-12T23:45:37+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.017853s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)   [ RunTime:0.000263s ]
+ERR: 1052:Column 'id' in on clause is ambiguous
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001076s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-06-12T23:45:39+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.014176s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)   [ RunTime:0.000340s ]
+ERR: 1052:Column 'id' in on clause is ambiguous
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000853s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001552s ]
+
+[ 2016-06-12T23:45:56+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.048290s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id)   [ RunTime:0.000652s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000337s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000584s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007316s ]
+
+[ 2016-06-12T23:46:58+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.020146s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000365s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001188s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003762s ]
+
+[ 2016-06-12T23:47:33+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001841s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.012832s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000258s ]
+ERR: 1054:Unknown column 'c.ms' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001375s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002019s ]
+
+[ 2016-06-12T23:48:00+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.015410s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)   [ RunTime:0.000239s ]
+ERR: 1054:Unknown column 'c.ms' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000844s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002030s ]
+
+[ 2016-06-12T23:48:02+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.017581s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)   [ RunTime:0.000449s ]
+ERR: 1054:Unknown column 'c.ms' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (id=c.goods_id)  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000399s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000698s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001249s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001876s ]
+
+[ 2016-06-12T23:48:44+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001351s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.014394s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000327s ]
+ERR: 1054:Unknown column 'c.ms' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.ms,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000359s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001346s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003822s ]
+
+[ 2016-06-12T23:49:13+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.018956s ]
+SQL: SELECT * FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000338s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000599s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001829s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003967s ]
+
+[ 2016-06-12T23:50:44+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.013330s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] Undefined variable: picdata C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\itenkris\Application\Runtime\Cache\Home\5b87b1808583e75413168b00f7d913de.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086289s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001594s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\wamp\www\itenkris\Application\Home\Controller\ProductController.class.php:12) C:\wamp\www\itenkris\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005666s ]
+
+[ 2016-06-12T23:54:08+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.018234s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000581s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000358s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001863s ]
+
+[ 2016-06-12T23:54:42+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.017791s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002618s ]
+
+[ 2016-06-12T23:56:06+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.020360s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000558s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000259s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-06-12T23:56:37+08:00 ] 127.0.0.1 /index.php/Home/Product/product.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002601s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.017103s ]
+SQL: SELECT a.id,a.goods_name,a.logo,a.goods_msc,a.goods_td,a.goods_desc,b.pic,c.cs,c.goods_asc FROM goods a LEFT JOIN goods_pic b ON (a.id=b.goods_id) LEFT JOIN goods_ms c ON (a.id=c.goods_id)   [ RunTime:0.000576s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000547s ]
+

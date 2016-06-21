@@ -1,0 +1,55 @@
+<layout name="layout" />
+	<div id="contact-header">
+        <h2>Always ready for your question.</h2>
+    </div>
+    <div id="contact-lst">
+        <div id="contact-left">
+		    <div id="q1">
+		       <img src="__HIMG__/location.png"/> 
+			</div>	
+			<?php foreach($idata as $k=>$v):?>
+			<div id="q2"><p><?php echo $v['location'];?><br />Zip: <?php echo $v['zip']?>.</p></div>
+			<?php endforeach;?>
+			<!--百度地图容器-->
+			<div id="dituContent"></div>
+		</div>	   
+		<div id="contact-right">
+		    <?php foreach($data as $k=>$v):?>
+		    <div id="q3">
+		        <img src="__HIMG__/c-1.png"/> 
+		        <div id="cc"><h3>Sales & Marketing</h3></div>
+			</div>	
+			<div class="clear"></div><!-- html注释：清除float产生浮动 --> 
+			<div id="q4">
+		        <img src="__HIMG__/c-2.png"/> 
+		        <div id="cd">
+				    <h4>Pre-sales consultation and purchase issues please contact:</h4>
+				    <p>Tel:<?php echo $v['smtel'];?><br />Email: <?php echo $v['smemail'];?></p>
+				</div>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 -->
+			<div id="q3" class="q3">
+		        <img src="__HIMG__/c-1.png"/> 
+		        <div id="cc"><h3>Technical Support</h3></div>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 -->
+			<div id="q4">
+		        <img src="__HIMG__/c-2.png"/> 
+		        <div id="cd">
+				    <h4>Further technical issues please contact:</h4>
+				    <p>Tel:<?php echo $v['tstel'];?><br />Email: <?php echo $v['tsemail']?></p>
+				</div>
+			</div>
+			<?php endforeach;?>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 -->
+			<div id="q5">
+		        <img src="__HIMG__/Connect.png"/>
+			</div>
+			<div id="links">
+			    <?php foreach($adata as $k=>$v):?>
+			    <a href="<?php echo $v['link']?>"><img src="__UPLOAD__/<?php echo $v['logo']?>"/></a>
+				<?php endforeach;?>
+			</div>
+		</div>
+	</div>	
+

@@ -1,0 +1,53 @@
+<layout name="layout" />
+	<div id="careers-header">
+        <h2>Welcome to join us</h2>
+    </div>
+    <div id="careers-lst">
+        <div id="careers-left">
+		<?php foreach($pdata as $k=>$v):?>
+		    <div id="o1">
+		       <img src="__HIMG__/need.png"/> 
+		       <h4>&nbsp;&nbsp;<?php echo $v['cate']?></h4>
+		       <p>Category: <?php echo $v['category']?> <br>Position Type:<?php echo $v['position']?><br> Location:<?php echo $v['location']?></p>
+			</div>			
+			<div class="clear"></div><!-- html注释：清除float产生浮动 --> 
+			<div id="o2">
+		        <img src="__HIMG__/hd.png"/> 
+		        <h4>&nbsp;&nbsp;Key<br />&nbsp;&nbsp;Responsibilities</h4>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 -->
+		    <div id="o3">
+			    <?php echo $v['kr']?>
+			</div>
+		</div>	   
+		<div id="careers-right">
+		    <div id="o4">
+		        <img src="__HIMG__/hd.png"/> 
+		        <h4>&nbsp;&nbsp;Education & <br />&nbsp;&nbsp;Qualifications</h4>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 --> 
+			<div id="o5">
+               <?php echo $v['eq']?>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 --> 
+			<div id="o6">
+                <img src="__HIMG__/email.png"/> 
+		        <p>Send your CVs by e-mail to<br /><a href="HR@enkris.com">HR@enkris.com</a>if you are interested in these positions.</p>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 --> 
+			<div id="o7">
+                <img src="__HIMG__/ps.png"/>
+		        <p>By sending your application you agree that ENKRIS Semiconductors can collect, process, use and save your CV for the purpose of occupational aptitude during the screening process.</p>
+			</div>
+		<?php endforeach;?>
+		</div>
+		<div class="clear"></div><!-- html注释：清除float产生浮动 -->	
+		<!--分页开始-->
+	    <table id="page-table" cellspacing="0"  align="center">
+	        <tr
+		       <td width="80%">&nbsp;</td>
+			   <td align="center" nowrap="true"><?php echo $page;?></td>
+		    </tr>
+	    </table>
+	    <!--分页结束-->
+	</div>	

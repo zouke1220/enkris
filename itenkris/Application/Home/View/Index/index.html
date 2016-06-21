@@ -1,0 +1,23 @@
+<layout name="layout" />
+    <div id="main">
+	    <div id="left">
+		    <div id="imtitle">
+		        <span><h1 id="i1">8</h1></span><span><h3>inch<br/>GaN-on-Si epi-wafers</h3></span>
+			</div>
+			<div class="clear"></div><!-- html注释：清除float产生浮动 --> 
+			<div id="imcontent">
+		        <?php echo $gdata[0]['goods_desc']?>
+			</div>
+			<div id="immore"><img width="30px" height="30px" src="__HIMG__/more.png"/><a href="<?php echo U('Product/product');?>">Know more</a></div>
+	    </div>
+		<div id="right">
+		    <div id="irtitle">
+		        <h2>About Enkris</h2>
+		    </div>
+		    <div id="ircontent">
+		        <?php foreach ($data as $k => $v): ?>   
+		            <?php echo $v['cintro'];?>
+				<?php endforeach; ?> 
+			</div>
+		</div>
+	</div>

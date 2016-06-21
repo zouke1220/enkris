@@ -1,0 +1,33 @@
+<layout name="layout" />
+
+<div class="main-div">
+    <form name="main_form" method="POST" action="__SELF__" enctype="multipart/form-data" >
+    	<input type="hidden" name="id" value="<?php echo $data['id']; ?>" />
+		<input type="hidden" name="old_logo" value="<?php echo $data['logo']; ?>" />
+        <table cellspacing="1" cellpadding="3" width="100%">
+            <tr>
+                <td class="label">Logo：</td>
+                <td>
+				    <img src="__UPLOAD__/<?php echo $data['logo']?>" /><br /> 
+                	<input type="file" name="logo" />                	                
+				</td>
+            </tr>
+            <tr>
+                <td class="label">内部链接：</td>
+                <td>
+                    <input  type="text" name="link" value="<?php echo $data['link']; ?>" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="99" align="center">
+                    <input type="submit" class="button" value=" 确定 " />
+                    <input type="reset" class="button" value=" 重置 " />
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+
+<script>
+</script>

@@ -1,0 +1,31 @@
+<layout name="layout" />
+	<div id="news-header">
+        <div id="news-logo"><img src="__HIMG__/news-logo.png"/></div>
+        <div id="lr"><h2><span class="left">Know more</span><span class="right">&nbsp;about Enkris</span></h2></div>
+    </div>	
+    <div id="news">
+	    <?php foreach($pdata as $k=>$v):
+		    $k++;
+		?>
+	    <div id="new-1">            
+            <div id="news-pic">
+	            <img src="__HIMG__/news<?php echo $k;?>.png" />
+			</div>
+	        <div id="news-title">
+			    <h5><a href="<?php echo U('News/newsview?id='.$v['id']);?>" class="s22"><?php echo $v['news_title']?></a></h5>
+			</div>
+			<div id="news-content">
+	            <p><?php echo $v['news_content']?></p>
+            </div>
+		</div>
+		<?php endforeach;?>
+        <div class="clear"></div><!-- html注释：清除float产生浮动 -->	
+		<!--分页开始-->
+	    <table id="page-table" cellspacing="0"  align="center">
+	        <tr
+		       <td width="80%">&nbsp;</td>
+			   <td align="center" nowrap="true"><?php echo $page;?></td>
+		    </tr>
+	    </table>
+	    <!--分页结束-->
+	</div>	

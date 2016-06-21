@@ -1,0 +1,75 @@
+<layout name="layout"/>
+<!-- 搜索 -->
+<div class="form-div search_form_div">
+    <form action="__ACTION__" method="GET" name="search_form">
+		<p>
+			产品标题：
+	   		<input type="text" name="goods_title" size="30" value="<?php echo I('get.goods_title'); ?>" />
+		</p>
+		<p>
+			添加时间：
+	   		从 <input id="fa" type="text" name="fa" size="20" value="<?php echo I('get.fa'); ?>" /> 
+		    到 <input id="ta" type="text" name="ta" size="20" value="<?php echo I('get.ta'); ?>" />
+		</p>
+		<p><input type="submit" value=" 搜索 " class="button" /></p>
+		<p>
+		    排序方式:
+			<?php $odby=I('get.odby','id_desc'); //如果为空,默认为id_desc ?>
+		    <input onclick="this->parentNode.parentNode.submit();" 
+		    type="radio" name="odby" value="id_desc" <?php if($odby=='id_desc') echo 'checked="checked"';?>/>以添加时间降序
+		    <input onclick="this->parentNode.parentNode.submit();" 
+		    type="radio" name="odby" value="id_asc" <?php if($odby=='id_asc') echo 'checked="checked"';?>/>以添加时间升序
+		</p>
+    </form>
+</div>
+<!-- 产品列表 -->
+<div class="list-div" id="listDiv">
+    <table cellpadding="3" cellspacing="1">
+        <tr>
+            <th>ID</th>				
+            <th>产品名称</th>
+			<th>产品logo</th>   		
+			<th>产品描述</th>
+			<th>添加时间</th>
+			<th>操作</th>
+        </tr>
+        <?php foreach($gooddata as $k=>$v):?>
+        <tr class="tron">
+            <td align="center"><?php echo $v['id'];?></td>
+			<td align="left"><?php echo $v['goods_name'];?></td>
+			<td align="center"><img src="__UPLOAD__/<?php echo $v['big_logo'];?>"/></td>
+			<td align="left"><?php echo $v['goods_desc'];?></td>
+			<td align="center"><span><?php echo $v['addtime'];?></span></td>
+            <td align="center">
+                <a href="<?php echo U('edit?id='.$v['id']);?>">修改</a>
+                <a onclick="return confirm('确定要删除吗？')" href="<?php echo U('delete?id='.$v['id']);?>">删除</a>
+	    	</td>
+        </tr>
+        <?php endforeach; ?>		
+    </table>    
+	<!--分页开始-->
+	<table id="page-table" cellspacing="0">
+	    <tr>
+		    <td width="80%">&nbsp;</td>
+			<td align="center" nowrap="true"><?php echo $page;?></td>
+		</tr>
+	</table>
+	<!--分页结束-->
+</div>
+<!-- 引入Jquery -->
+<script type="text/javascript" src="__PUBLIC__/umeditor/third-party/jquery.min.js"></script>
+<!-- 引入时间插件 -->
+<link href="__PUBLIC__/datetimepicker/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/datetimepicker/jquery-ui-1.9.2.custom.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="__PUBLIC__/datetimepicker/datepicker-zh_cn.js"></script>
+<link rel="stylesheet" media="all" type="text/css" href="__PUBLIC__/datetimepicker/time/jquery-ui-timepicker-addon.min.css" />
+<script type="text/javascript" src="__PUBLIC__/datetimepicker/time/jquery-ui-timepicker-addon.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/datetimepicker/time/i18n/jquery-ui-timepicker-addon-i18n.min.js"></script>
+<script>
+    //设置使用中文
+    $.timepicker.setDefaults($.timepicker.regional['zh-CN']);
+    $("#fa").datetimepicker();
+    $("#ta").datetimepicker();
+</script>
+<!-- 引入行高亮显示tron.js -->
+<script type="text/javascript" src="__AJS__/tron.js"></script>
